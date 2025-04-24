@@ -1,9 +1,4 @@
 
 {
-  "app":"mosayebi-test"
-  "port":80
-  "build":{
-  "location":"iran"
-  }
-  "disks":[]
+  "port":8000
 }
