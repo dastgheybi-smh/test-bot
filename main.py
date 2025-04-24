@@ -35,4 +35,4 @@ while True:
         if "message" in update:
             handle_message(update["message"])
             last_update_id = update["update_id"] + 1
-    time.sleep(1)
+    time.sleep(0.5)
